@@ -15,4 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohdshahzil&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Projects
+
+[Apply for Job](https://mohdshahzil.github.io/JobApplication/)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
