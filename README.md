@@ -20,5 +20,6 @@
 [tinDog](https://mohdshahzil.github.io/tindog.github.io/)
 [dice2v2](https://mohdshahzil.github.io/dice2v2/)
 [Apply for Job](https://mohdshahzil.github.io/JobApplication/)
+[Digital Clock](https://mohdshahzil.github.io/Digital-Clock/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
