@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Tindog<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with general web dev stuff<br>🌱 I’m currently learning web development<br>💬 Ask me about HTML, CSS, Bootstrap 5<br>⚡ Fun fact Programmers are very lazy or atleast I think so
+👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with general web dev stuff<br>🌱 I’m currently learning web development<br>💬 Ask me about HTML, CSS, Bootstrap 5, JavaScript, NodeJS, EJS, SQL, MongoDB<br>⚡ Fun fact Programmers are very lazy or atleast I think so
 
 
 # 💻 Tech Stack:
