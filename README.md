@@ -27,3 +27,6 @@
 [Calculator](https://mohdshahzil.github.io/Calculator/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/mohdshahzil/mohdshahzil/output/snake.svg" alt="Snake animation" />
+
+###
