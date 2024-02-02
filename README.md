@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Reposight<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning NextJS<br>💬 Ask me about ReactJS & NextJs<br>⚡ Fun fact : Why don't programmers like nature? It has too many bugs.
+🔭 I’m currently working on Reposight<br>👯 I’m looking to collaborate on Web Development Projects<br>🌱 I’m currently learning Data Mining<br>💬 Ask me about ReactJS & NextJs<br>⚡ Fun fact : Why don't programmers like nature? It has too many bugs.
 
 
 ## 🌐 Socials:
